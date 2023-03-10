@@ -11,3 +11,5 @@ range of tasks, such as question answering and
 language inference, without substantial taskspecific architecture modifications.<br>
 
 DistilBERT is a small, fast, cheap and light Transformer model trained by distilling Bert base. It has 40% less parameters than bert-base-uncased, runs 60% faster while preserving over 95% of Bert’s performances as measured on the GLUE language understanding benchmark.
+
+![Alt text](https://github.com/Yasser-shrief/Text-Summarization_-TensorFlow-/blob/main/Models.JPG)
